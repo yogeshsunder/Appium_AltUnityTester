@@ -1,0 +1,372 @@
+05/19/2020 00:54:08:Logging is set to True
+05-19-2020 00:54:06 : response received : Ok
+05/28/2020 20:47:36:Logging is set to True
+05-28-2020 20:47:34 : response received : Ok
+05/28/2020 20:51:26:Logging is set to True
+05-28-2020 20:51:23 : response received : Ok
+05/28/2020 21:33:24:Logging is set to True
+05-28-2020 21:33:21 : response received : Ok
+05/28/2020 21:33:24:findObjects for: //*
+05-28-2020 21:33:21 : response received : error:unknownError;System.OverflowException: Value was either too large or too small for an Int32.
+  at System.Convert.ToInt32 (System.Double value) [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.GameObjectToAltUnityObject (UnityEngine.GameObject altGameObject, UnityEngine.Camera camera) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectsCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+05/28/2020 21:37:11:Logging is set to True
+05-28-2020 21:37:08 : response received : Ok
+05/28/2020 21:37:21:findObjects for: //*
+05-28-2020 21:37:18 : response received : error:unknownError;System.OverflowException: Value was either too large or too small for an Int32.
+  at System.Convert.ToInt32 (System.Double value) [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.GameObjectToAltUnityObject (UnityEngine.GameObject altGameObject, UnityEngine.Camera camera) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectsCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+05/28/2020 21:39:52:Logging is set to True
+05-28-2020 21:39:50 : response received : Ok
+05/29/2020 15:40:05:Logging is set to True
+05-29-2020 15:40:06 : response received : Ok
+05/29/2020 15:43:03:Logging is set to True
+05-29-2020 15:43:04 : response received : Ok
+05/29/2020 15:43:30:findObjects for: //*
+05-29-2020 15:43:32 : response received : error:unknownError;System.OverflowException: Value was either too large or too small for an Int32.
+  at System.Convert.ToInt32 (System.Double value) [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.GameObjectToAltUnityObject (UnityEngine.GameObject altGameObject, UnityEngine.Camera camera) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectsCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+05/29/2020 15:55:04:Logging is set to True
+05-29-2020 15:55:05 : response received : Ok
+05/29/2020 15:55:26:findActiveObjectByName for: CREATE ACCOUNT
+05-29-2020 15:55:27 : response received : error:notFound
+05/29/2020 16:04:29:Logging is set to True
+05-29-2020 16:04:31 : response received : Ok
+05/29/2020 16:04:51:findActiveObjectByName for: IMPORT
+05-29-2020 16:04:53 : response received : error:notFound
+05/29/2020 17:36:54:Logging is set to True
+05-29-2020 17:36:54 : response received : Ok
+05/29/2020 17:37:16:get current scene
+05-29-2020 17:37:16 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+05/29/2020 17:37:16:find object by name IMPORT
+05-29-2020 17:37:16 : response received : error:notFound
+05/29/2020 17:39:37:Logging is set to True
+05-29-2020 17:39:37 : response received : Ok
+05/29/2020 17:39:59:get current scene
+05-29-2020 17:39:59 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+05/29/2020 17:42:08:Logging is set to True
+05-29-2020 17:42:08 : response received : Ok
+05/29/2020 17:42:15:get current scene
+05-29-2020 17:42:15 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+05/29/2020 17:45:16:Logging is set to True
+05-29-2020 17:45:16 : response received : Ok
+05/29/2020 17:45:23:get current scene
+05-29-2020 17:45:23 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+05/29/2020 17:48:10:Logging is set to True
+05-29-2020 17:48:10 : response received : Ok
+05/29/2020 17:48:25:get current scene
+05-29-2020 17:48:25 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+05/29/2020 17:57:50:Logging is set to True
+05-29-2020 17:57:50 : response received : Ok
+05/29/2020 17:58:05:get current scene
+05-29-2020 17:58:05 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+05/29/2020 17:58:05:find object where name contains:IMPORT
+05-29-2020 17:58:05 : response received : error:notFound
+06/02/2020 16:06:33:Logging is set to True
+06-02-2020 16:06:35 : response received : Ok
+06/02/2020 16:06:48:get current scene
+06-02-2020 16:06:50 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 16:06:49:findObjects for: //IMPORT
+06-02-2020 16:06:51 : response received : []
+06/02/2020 17:10:15:Logging is set to True
+06-02-2020 17:10:14 : response received : Ok
+06/02/2020 17:10:30:get current scene
+06-02-2020 17:10:29 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 17:10:30:findObjects for: //*
+06-02-2020 17:10:29 : response received : error:unknownError;System.OverflowException: Value was either too large or too small for an Int32.
+  at System.Convert.ToInt32 (System.Double value) [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.GameObjectToAltUnityObject (UnityEngine.GameObject altGameObject, UnityEngine.Camera camera) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectsCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 17:34:48:Logging is set to True
+06-02-2020 17:34:47 : response received : Ok
+06/02/2020 17:35:03:get current scene
+06-02-2020 17:35:02 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 17:35:13:findActiveObjectByName for: IMPORT
+06-02-2020 17:35:12 : response received : error:notFound
+06/02/2020 17:39:12:Logging is set to True
+06-02-2020 17:39:11 : response received : Ok
+06/02/2020 17:39:27:get current scene
+06-02-2020 17:39:26 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 17:39:37:findActiveObjectByName for: Next
+06-02-2020 17:39:36 : response received : error:notFound
+06/02/2020 17:44:20:Logging is set to True
+06-02-2020 17:44:19 : response received : Ok
+06/02/2020 17:44:35:get current scene
+06-02-2020 17:44:34 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 17:48:35:Logging is set to True
+06-02-2020 17:48:34 : response received : Ok
+06/02/2020 17:48:50:get current scene
+06-02-2020 17:48:49 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 17:48:50:findObject for: //*[@id=IMPORT];;true
+06-02-2020 17:48:49 : response received : error:unknownError;System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.CheckCondition (UnityEngine.GameObject objectToCheck, System.Collections.Generic.List`1[T] listOfConditions) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.FindObjects (UnityEngine.GameObject gameObject, System.Collections.Generic.List`1[T] conditions, System.Int32 step, System.Boolean singleObject, System.Boolean directChildren, System.Boolean enabled) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 17:52:17:Logging is set to True
+06-02-2020 17:52:16 : response received : Ok
+06/02/2020 17:52:32:get current scene
+06-02-2020 17:52:31 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 17:52:32:findObject for: //*[@id=IMPORT];;true
+06-02-2020 17:52:32 : response received : error:unknownError;System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.CheckCondition (UnityEngine.GameObject objectToCheck, System.Collections.Generic.List`1[T] listOfConditions) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.FindObjects (UnityEngine.GameObject gameObject, System.Collections.Generic.List`1[T] conditions, System.Int32 step, System.Boolean singleObject, System.Boolean directChildren, System.Boolean enabled) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 17:54:50:Logging is set to True
+06-02-2020 17:54:50 : response received : Ok
+06/02/2020 17:55:05:get current scene
+06-02-2020 17:55:05 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 17:55:06:findObject for: //*[@id=IMPORT];;true
+06-02-2020 17:55:05 : response received : error:unknownError;System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.CheckCondition (UnityEngine.GameObject objectToCheck, System.Collections.Generic.List`1[T] listOfConditions) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.FindObjects (UnityEngine.GameObject gameObject, System.Collections.Generic.List`1[T] conditions, System.Int32 step, System.Boolean singleObject, System.Boolean directChildren, System.Boolean enabled) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 17:57:55:Logging is set to True
+06-02-2020 17:57:54 : response received : Ok
+06/02/2020 17:58:10:get current scene
+06-02-2020 17:58:09 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 17:58:10:findObject for: //*[@id=IMPORT];;true
+06-02-2020 17:58:09 : response received : error:unknownError;System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.CheckCondition (UnityEngine.GameObject objectToCheck, System.Collections.Generic.List`1[T] listOfConditions) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.FindObjects (UnityEngine.GameObject gameObject, System.Collections.Generic.List`1[T] conditions, System.Int32 step, System.Boolean singleObject, System.Boolean directChildren, System.Boolean enabled) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 18:00:28:Logging is set to True
+06-02-2020 18:00:28 : response received : Ok
+06/02/2020 18:00:43:get current scene
+06-02-2020 18:00:43 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 18:00:43:findObject for: //*[@id=IMPORT];;true
+06-02-2020 18:00:43 : response received : error:unknownError;System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.CheckCondition (UnityEngine.GameObject objectToCheck, System.Collections.Generic.List`1[T] listOfConditions) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.FindObjects (UnityEngine.GameObject gameObject, System.Collections.Generic.List`1[T] conditions, System.Int32 step, System.Boolean singleObject, System.Boolean directChildren, System.Boolean enabled) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 18:04:06:Logging is set to True
+06-02-2020 18:04:06 : response received : Ok
+06/02/2020 18:04:21:get current scene
+06-02-2020 18:04:21 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 18:04:21:findObject for: //*[contains(@name,Event)];;true
+06-02-2020 18:04:21 : response received : {"name":"EventSystem","id":34334,"x":1130,"y":540,"z":10,"mobileY":540,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":34418,"parentId":0,"transformId":34406}
+06/02/2020 18:08:08:Logging is set to True
+06-02-2020 18:08:08 : response received : Ok
+06/02/2020 18:08:23:get current scene
+06-02-2020 18:08:23 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 18:08:23:findObject for: //*[contains(@name,IMPORT)];;true
+06-02-2020 18:08:23 : response received : error:notFound
+06/02/2020 18:10:39:Logging is set to True
+06-02-2020 18:10:39 : response received : Ok
+06/02/2020 18:10:54:get current scene
+06-02-2020 18:10:54 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 18:10:54:findObject for: //*[contains(@name,CREATE)];;true
+06-02-2020 18:10:54 : response received : error:notFound
+06/02/2020 18:13:30:Logging is set to True
+06-02-2020 18:13:30 : response received : Ok
+06/02/2020 18:13:45:get current scene
+06-02-2020 18:13:45 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 18:13:45:findObject for: //*[contains(@name,Event)];;true
+06-02-2020 18:13:45 : response received : {"name":"EventSystem","id":34334,"x":1130,"y":540,"z":10,"mobileY":540,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":34418,"parentId":0,"transformId":34406}
+06/02/2020 18:13:45:ClickEvent on AltUnityObject
+06-02-2020 18:13:45 : response received : {"name":"EventSystem","id":34334,"x":1130,"y":540,"z":10,"mobileY":540,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":34418,"parentId":0,"transformId":34406}
+06/02/2020 18:52:24:Logging is set to True
+06-02-2020 18:52:24 : response received : Ok
+06/02/2020 18:52:39:get current scene
+06-02-2020 18:52:39 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 18:52:39:findObject for: //*[contains(@name,Event)];;true
+06-02-2020 18:52:39 : response received : {"name":"EventSystem","id":34334,"x":1130,"y":540,"z":10,"mobileY":540,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":34418,"parentId":0,"transformId":34406}
+06/02/2020 18:52:39:ClickEvent on AltUnityObject
+06-02-2020 18:52:39 : response received : {"name":"EventSystem","id":34334,"x":1130,"y":540,"z":10,"mobileY":540,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":34418,"parentId":0,"transformId":34406}
+06/02/2020 18:57:21:Logging is set to True
+06-02-2020 18:57:20 : response received : Ok
+06/02/2020 18:57:36:get current scene
+06-02-2020 18:57:35 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 18:57:36:findObject for: //*[contains(@name,Event)];;true
+06-02-2020 18:57:36 : response received : {"name":"EventSystem","id":34334,"x":1130,"y":540,"z":10,"mobileY":540,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":34418,"parentId":0,"transformId":34406}
+06/02/2020 18:57:36:Get text from object by name EventSystem06/02/2020 18:57:36:assembly name UnityEngine.UI06/02/2020 18:57:36:assembly name UnityEngine.UI
+06-02-2020 18:57:36 : response received : error:componentNotFound
+06/02/2020 19:04:23:Logging is set to True
+06-02-2020 19:04:22 : response received : Ok
+06/02/2020 19:04:38:get current scene
+06-02-2020 19:04:37 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:04:38:findObject for: //*[contains(@tag,IMPORT)];;true
+06-02-2020 19:04:38 : response received : error:notFound
+06/02/2020 19:08:50:Logging is set to True
+06-02-2020 19:08:49 : response received : Ok
+06/02/2020 19:09:05:get current scene
+06-02-2020 19:09:04 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:09:05:findObject for: //*[contains(@layer,IMPORT)];;true
+06-02-2020 19:09:04 : response received : error:notFound
+06/02/2020 19:11:19:Logging is set to True
+06-02-2020 19:11:19 : response received : Ok
+06/02/2020 19:11:34:get current scene
+06-02-2020 19:11:34 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:11:34:findObject for: //*[contains(@component,IMPORT)];;true
+06-02-2020 19:11:34 : response received : error:notFound
+06/02/2020 19:13:31:Logging is set to True
+06-02-2020 19:13:30 : response received : Ok
+06/02/2020 19:13:46:get current scene
+06-02-2020 19:13:45 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:17:03:Logging is set to True
+06-02-2020 19:17:02 : response received : Ok
+06/02/2020 19:17:18:get current scene
+06-02-2020 19:17:18 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:17:18:findObjects for: //*
+06-02-2020 19:17:18 : response received : error:unknownError;System.OverflowException: Value was either too large or too small for an Int32.
+  at System.Convert.ToInt32 (System.Double value) [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.GameObjectToAltUnityObject (UnityEngine.GameObject altGameObject, UnityEngine.Camera camera) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectsCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 19:23:08:Logging is set to True
+06-02-2020 19:23:07 : response received : Ok
+06/02/2020 19:23:23:get current scene
+06-02-2020 19:23:23 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:23:23:findActiveObjectByName for: Button
+06-02-2020 19:23:23 : response received : error:notFound
+06/02/2020 19:25:37:Logging is set to True
+06-02-2020 19:25:37 : response received : Ok
+06/02/2020 19:25:53:get current scene
+06-02-2020 19:25:52 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:25:53:findActiveObjectByName for: Button
+06-02-2020 19:25:52 : response received : error:notFound
+06/02/2020 19:28:13:Logging is set to True
+06-02-2020 19:28:12 : response received : Ok
+06/02/2020 19:28:28:get current scene
+06-02-2020 19:28:27 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:28:28:findObject for: //*[@id=Button];;true
+06-02-2020 19:28:27 : response received : error:unknownError;System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.CheckCondition (UnityEngine.GameObject objectToCheck, System.Collections.Generic.List`1[T] listOfConditions) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.FindObjects (UnityEngine.GameObject gameObject, System.Collections.Generic.List`1[T] conditions, System.Int32 step, System.Boolean singleObject, System.Boolean directChildren, System.Boolean enabled) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 19:32:49:Logging is set to True
+06-02-2020 19:32:48 : response received : Ok
+06/02/2020 19:33:04:get current scene
+06-02-2020 19:33:03 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:33:04:getScreenshotPNG
+06-02-2020 19:33:04 : response received : Ok
+06/02/2020 19:35:31:Logging is set to True
+06-02-2020 19:35:31 : response received : Ok
+06/02/2020 19:35:46:get current scene
+06-02-2020 19:35:46 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:35:46:getScreenshotPNG
+06-02-2020 19:35:46 : response received : Ok
+06/02/2020 19:37:56:Logging is set to True
+06-02-2020 19:37:55 : response received : Ok
+06/02/2020 19:38:11:get current scene
+06-02-2020 19:38:10 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:38:11:getScreenshotPNG
+06-02-2020 19:38:10 : response received : Ok
+06/02/2020 19:41:34:Logging is set to True
+06-02-2020 19:41:33 : response received : Ok
+06/02/2020 19:41:49:get current scene
+06-02-2020 19:41:48 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 19:41:49:getScreenshotPNG
+06-02-2020 19:41:48 : response received : Ok
+06/02/2020 21:52:03:Logging is set to True
+06-02-2020 21:52:02 : response received : Ok
+06/02/2020 21:52:18:get current scene
+06-02-2020 21:52:17 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 21:52:18:findObject for: /Canvas//Button[@component=IMPORT];;true
+06-02-2020 21:52:17 : response received : error:notFound
+06/02/2020 21:54:39:Logging is set to True
+06-02-2020 21:54:38 : response received : Ok
+06/02/2020 21:54:54:get current scene
+06-02-2020 21:54:53 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 21:54:54:findObject for: /Canvas/Online Controller Scene/Button[@component=IMPORT];;true
+06-02-2020 21:54:53 : response received : error:notFound
+06/02/2020 22:09:40:Logging is set to True
+06-02-2020 22:09:40 : response received : Ok
+06/02/2020 22:09:47:get current scene
+06-02-2020 22:09:47 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 22:09:47:findObject for: Canvas//Button[@component=ButtonLogic];;true
+06-02-2020 22:09:47 : response received : error:unknownError;System.Exception: Expected / or // instead of Canvas
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityBaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00000] in <00000000000000000000000000000000>:0 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectCommand.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00000] in <00000000000000000000000000000000>:0 
+  at SendResponse.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltResponseQueue.Cycle () [0x00000] in <00000000000000000000000000000000>:0 
+  at AltUnityRunner.Update () [0x00000] in <00000000000000000000000000000000>:0 
+06/02/2020 22:11:57:Logging is set to True
+06-02-2020 22:11:56 : response received : Ok
+06/02/2020 22:12:04:get current scene
+06-02-2020 22:12:03 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 22:12:04:findObject for: /Canvas//Button[@component=ButtonLogic];;true
+06-02-2020 22:12:03 : response received : error:notFound
+06/02/2020 22:14:55:Logging is set to True
+06-02-2020 22:14:54 : response received : Ok
+06/02/2020 22:15:02:get current scene
+06-02-2020 22:15:01 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 22:15:02:findObject for: /Canvas/GameEnterHUD/Buttons/IMPORTButton;;true
+06-02-2020 22:15:01 : response received : error:notFound
+06/02/2020 22:27:59:Logging is set to True
+06-02-2020 22:27:58 : response received : Ok
+06/02/2020 22:44:57:Logging is set to True
+06-02-2020 22:44:57 : response received : Ok
+06/02/2020 22:45:04:get current scene
+06-02-2020 22:45:04 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 22:45:04:find object by name IMPORT
+06-02-2020 22:45:04 : response received : error:notFound
+06/02/2020 22:48:15:Logging is set to True
+06-02-2020 22:48:15 : response received : Ok
+06/02/2020 22:48:22:get current scene
+06-02-2020 22:48:22 : response received : {"name":"Online Controller Scene","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+06/02/2020 22:48:22:LoadScene Online Controller Scene
+06-02-2020 22:48:22 : response received : Ok
+Scene Loaded
+06-02-2020 22:48:22 : response received : Scene Loaded
+06/02/2020 22:48:23:find object by name IMPORT
+06-02-2020 22:48:22 : response received : error:notFound
